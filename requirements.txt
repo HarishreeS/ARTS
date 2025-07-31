@@ -1,0 +1,6 @@
+torch
+opencv-python
+numpy
+pyttsx3
+requests
+tk

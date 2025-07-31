@@ -1,0 +1,47 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Jupyter Notebook metadata
+*.nbmetadata.json
+
+# Output & log files
+*.log
+*.out
+
+# Mac & Windows system files
+.DS_Store
+Thumbs.db
+
+# Video and media files
+*.mp4
+*.avi
+*.mov
+output_with_yellow_line.mp4
+
+# IDE/editor project files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Tkinter window db files
+*.db
+
+# Assets temp files
+assets/*.tmp
+
+# Installer logs
+pip-log.txt
+
+# PyInstaller
+*.spec
