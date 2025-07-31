@@ -37,7 +37,7 @@ A real-time AI-based monitoring system for railway/metro platforms using YOLOv5 
 
 ## 📁 Folder Structure
 
-<pre> ``` railway-station-monitoring/ ├── src/ │ └── main.py # Main script for detection & GUI ├── resources/ │ └── yolo_info.md # Notes on YOLO usage ├── assets/ │ ├── demo1.png │ ├── demo2.png │ ├── demo3.png │ ├── demo4.png │ ├── demo5.png │ └── Demo_Video_ARTS.mp4 # Output video ├── requirements.txt # Dependencies ├── README.md # Project overview and usage └── .gitignore # Ignore list ``` </pre>
+<pre> <code> railway-station-monitoring/ │ ├── src/ │ └── main.py # Main script for detection & GUI │ ├── resources/ │ └── yolo_info.md # Notes on YOLO usage │ ├── assets/ │ ├── demo1.png # Output image 1 │ ├── demo2.png # Output image 2 │ ├── requirements.txt # Dependencies ├── README.md # This file └── .gitignore # Ignore list </code> </pre>
 
 ---
 
